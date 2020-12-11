@@ -1,0 +1,54 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.theform{
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px;
+    background:hsla(0,0%,100%,.67);
+    padding: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    color: #006a5b !important;
+  }
+  #submitButton{
+    width: 100%;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background:linear-gradient(141deg,#056b5b 35%,#9dd85c 103%);
+  }
+  #date, #month, #year, #gender{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  footer{
+    background:linear-gradient(141deg,#056b5b 35%,#9dd85c 103%);
+    margin-top: 2%;
+    color: white;
+    height: 30px;
+    margin-left: 0%;
+  }
+  #header{
+    background:linear-gradient(141deg,#056b5b 35%,#9dd85c 103%); 
+    color: white;
+    padding: 10px;
+  }
+  #header>p{
+      font-size: 15px;
+      padding-top: 8px;
+  }
+  body{
+    background-image: url(https://github.com/daisyarusey/Akhan-name-generator/blob/master/images/calculator-calculation-insurance-finance-53621.jpeg?raw=true)
+  }
+  #result{
+    color:#006a5b !important;
+  }
