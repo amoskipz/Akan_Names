@@ -24,27 +24,23 @@
                 the week they were born.</p>
             <p>Know your Akan name!</p>
         </div>
-        <form class="theform" method="POST">
+        <form class="theform">
             <fieldset>
                 <legend>Enter your details</legend>
                 Date:<input type="number" id="date">
                 Month:<input type="number" id="month">
-                Year:<input type="number" id="year">
+                Year:<input type="number" id="year" maxlength="4">
                 <select id="gender">
                     <option value="female">Female</option>
                     <option value="male">Male</option>
                 </select>
-                <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                  </div>
             </fieldset>
             <input type="submit" value="Submit" id="submitButton" class="btn btn-primary"
-                onclick="generateName(); verify(); return false" />
+                onclick="verify();return false;" />
             <h2 class="text-center" id="result"></h2>
         </form>
 </body>
-<script src="js/script.js"></script>
+<script src="./Js/script.js"></script>
 <footer class="text-center">
     Copyright &copy; 2020 Designed by koechkipz03@gmail.com
 </footer>
