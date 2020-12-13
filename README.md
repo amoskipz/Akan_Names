@@ -11,7 +11,10 @@ A web application that takes a user's birthday and calculates the day of the wee
 ## Known Bugs
 Incase of any errors in installing the application,kindly try to resolve conflicts of any changes you make
 ## Technologies Used
-HTL,CSS and Javascript
+*HTML
+*CSS
+*Javascript
+*Bootstrap
 ## Support and contact details
 Incase of any issues on the website, Feel free to contact me through;
 * Phone:+254702182472
