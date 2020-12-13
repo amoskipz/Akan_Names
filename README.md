@@ -23,6 +23,7 @@ Incase of any issues on the website, Feel free to contact me through;
 *Copyright © 2020 Designed by koechkipz03@gmail.com 
 
 # Landing page_screenshots
-https://github.com/amoskipz/Akan_Names/blob/gh-pages/images/akan1.png
 
-https://github.com/amoskipz/Akan_Names/blob/gh-pages/images/akan2.png
+<img src="https://github.com/amoskipz/Akan_Names/blob/gh-pages/images/akan1.png">
+
+<img src="https://github.com/amoskipz/Akan_Names/blob/gh-pages/images/akan2.png">
