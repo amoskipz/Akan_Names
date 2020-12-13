@@ -14,7 +14,7 @@ Incase of any errors in installing the application,kindly try to resolve conflic
 HTL,CSS and Javascript
 ## Support and contact details
 Incase of any issues on the website, Feel free to contact me through;
-Phone:+254702182472
-Email:koechkipz03@gmail.com
+* Phone:+254702182472
+* Email:koechkipz03@gmail.com
 ### License
 *Copyright (c) koechkipz03@gmail.com **ICT Authority**
